@@ -28,7 +28,7 @@
 ![Flair Confetti Demo Preview](preview.gif)
 
 
-## 🚀 Live Application
+## 🚀 Live Website
 
 Experience the fully interactive website live here:  
 **[flair-confetti.vercel.app](https://flair-confetti.vercel.app/)**
