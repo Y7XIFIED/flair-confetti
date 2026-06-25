@@ -1,10 +1,10 @@
 <h1 align="center">FLAIR CONFETTI</h1>
 
-[![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel)](https://flair-confetti.vercel.app/)
-[![GitHub stars](https://img.shields.io/github/stars/Y7XIFIED/flair-confetti?style=for-the-badge)](https://github.com/Y7XIFIED/flair-confetti/stargazers)
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg?style=for-the-badge)](https://opensource.org/licenses/ISC)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+<p align="center">
+  <a href="https://flair-confetti.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel,js,vite,html,css" alt="Project Tech & Deployment" />
+  </a>
+</p>
 
 
 ## 📖 About
