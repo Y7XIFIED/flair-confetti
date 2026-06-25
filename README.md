@@ -93,5 +93,5 @@ Experience the fully interactive website live here:
 
 
 <div align="center">
-  <p>If you find this simulation inspiring, please give it a ⭐ on GitHub!</p>
+  <p>Y7XIFIED</p>
 </div>
