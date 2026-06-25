@@ -1,11 +1,10 @@
-<div align="center">
-  <h1>FLAIR CONFETTI</h1>
-  <p>A sophisticated, high-performance physics engine and procedural sound-synthesis simulator designed for interactive web experiences.</p>
-</div>
+# FLAIR CONFETTI
+
+A sophisticated, high-performance physics engine and procedural sound-synthesis simulator designed for interactive web experiences.
 
 ---
 
-<h2 align="center">📖 About</h2>
+## 📖 About
 
 * **Tactile Cannon Controls:** Click, hold, and pull back the hand launcher to aim.
 * **Dynamic Web Audio SFX:** Real-time pitch-bending tension stretch and release pop sounds.
@@ -13,7 +12,7 @@
 
 ---
 
-<h2 align="center">🛠️ Features</h2>
+## 🛠️ Features
 
 | Feature | Description | Implementation Details |
 | :--- | :--- | :--- |
@@ -23,27 +22,27 @@
 
 ---
 
-<h2 align="center">🖼️ Preview</h2>
+## 🖼️ Preview
 
 ![Flair Confetti Demo Preview](preview.gif)
 
 ---
 
-<h2 align="center">🎮 How to Control</h2>
+## 🎮 How to Control
 
 * **Pull & Launch:** Click, hold, and pull back the hand icon. Watch the line stretch and listen to the pitch rise, then let go to launch the blast.
 * **Mobile Taps:** Open the page on a mobile device and tap anywhere to trigger instant explosions without needing to drag.
 
 ---
 
-<h2 align="center">⚙️ Installation</h2>
+## ⚙️ Installation
 
-<h3 align="center">Prerequisites</h3>
+### Prerequisites
 
 * **Node.js** (v18.0.0 or higher recommended)
 * **npm** (v9.0.0 or higher)
 
-<h3 align="center">Setup Instructions</h3>
+### Setup Instructions
 
 1. Clone the repository:
    ```bash
@@ -61,7 +60,7 @@
 
 ---
 
-<h2 align="center">📂 Project Structure</h2>
+## 📂 Project Structure
 
 ```text
 ├── assets/
@@ -76,7 +75,7 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+## 💻 Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -91,7 +90,6 @@
 
 ---
 
-<div align="center">
-  <p>If you find this simulation inspiring, please give it a ⭐ on GitHub!</p>
-  <sub>Crafted by <b>Y7XIFIED</b></sub>
-</div>
+If you find this simulation inspiring, please give it a ⭐ on GitHub!
+
+<sub><b>Y7XIFIED</b></sub>
