@@ -1,4 +1,4 @@
-<h1 align="center">FLAIR CONFETTI</h1>
+<h3 align="center"><b>FLAIR CONFETTI</b></h3>
 
 <p align="center">
   <a href="https://flair-confetti.vercel.app/">
