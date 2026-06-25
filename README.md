@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Flair Confetti</h1>
-  <p>An interactive, high-performance physics and sound-synthesis confetti simulator</p>
+  <h1>FLAIR CONFETTI</h1>
+  <p>A sophisticated, high-performance physics engine and procedural sound-synthesis simulator designed for interactive web experiences.</p>
 </div>
 
 ---
