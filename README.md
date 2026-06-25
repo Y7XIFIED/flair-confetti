@@ -39,10 +39,12 @@
 <h2 align="center">⚙️ Installation</h2>
 
 <h3 align="center">Prerequisites</h3>
+
 * **Node.js** (v18.0.0 or higher recommended)
 * **npm** (v9.0.0 or higher)
 
 <h3 align="center">Setup Instructions</h3>
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/Y7XIFIED/flair-confetti.git
