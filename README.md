@@ -1,6 +1,5 @@
 <h1 align="center">FLAIR CONFETTI</h1>
 
----
 
 ## 📖 About
 
@@ -8,7 +7,6 @@
 * **Dynamic Web Audio SFX:** Real-time pitch-bending tension stretch and release pop sounds.
 * **Custom Physics Simulation:** Gravity, boundary collisions, elastic bounces, and viewport shakes.
 
----
 
 ## 🛠️ Features
 
@@ -18,27 +16,23 @@
 | **Procedural Audio Synthesis** | Pitch-bent stretch feedback and release pop sound effects. | Built with native `AudioContext` triangle/sine oscillators. |
 | **Custom Physics Loop** | Euler integration for gravity, boundary collision, and ground friction. | Hooks into `requestAnimationFrame` via the GSAP ticker. |
 
----
 
 ## 🖼️ Preview
 
 ![Flair Confetti Demo Preview](preview.gif)
 
----
 
 ## 🚀 Live Application
 
 The final interactive web application is deployed and available to use:  
 **[flair-confetti.vercel.app](https://flair-confetti.vercel.app/)**
 
----
 
 ## 🎮 How to Control
 
 * **Pull & Launch:** Click, hold, and pull back the hand icon. Watch the line stretch and listen to the pitch rise, then let go to launch the blast.
 * **Mobile Taps:** Open the page on a mobile device and tap anywhere to trigger instant explosions without needing to drag.
 
----
 
 ## ⚙️ Installation
 
@@ -63,7 +57,6 @@ The final interactive web application is deployed and available to use:
    npm run dev
    ```
 
----
 
 ## 📂 Project Structure
 
@@ -78,7 +71,6 @@ The final interactive web application is deployed and available to use:
 └── vercel.json
 ```
 
----
 
 ## 💻 Tech Stack
 
@@ -93,7 +85,6 @@ The final interactive web application is deployed and available to use:
 * **GSAP Core:** High-performance animation engine and observer utilities.
 * **Vite:** Next-generation frontend project bundler.
 
----
 
 <div align="center">
   <p>If you find this simulation inspiring, please give it a ⭐ on GitHub!</p>
