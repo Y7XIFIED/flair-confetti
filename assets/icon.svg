@@ -1,0 +1,23 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fluent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff99cc" />
+      <stop offset="100%" stop-color="#ff5e99" />
+    </linearGradient>
+    <linearGradient id="fluent-dark" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff5e99" />
+      <stop offset="100%" stop-color="#e02068" />
+    </linearGradient>
+  </defs>
+  <!-- Base layer -->
+  <path d="M 24 64 L 104 64 L 92 100 Q 90 108 80 108 L 48 108 Q 38 108 36 100 Z" fill="#b80c4c" />
+  <!-- Middle layer -->
+  <path d="M 20 54 L 108 54 L 98 84 Q 96 90 88 90 L 40 90 Q 32 90 30 84 Z" fill="url(#fluent-dark)" />
+  <!-- Top layer -->
+  <rect x="12" y="16" width="104" height="60" rx="20" fill="url(#fluent)" />
+  
+  <!-- White elements -->
+  <circle cx="64" cy="46" r="16" fill="#ffffff" />
+  <polygon points="32,46 44,34 44,58" fill="#ffffff" />
+  <polygon points="96,46 84,34 84,58" fill="#ffffff" />
+</svg>
