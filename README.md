@@ -30,7 +30,7 @@
 
 ## 🚀 Live Application
 
-Experience the fully interactive application live here:  
+Experience the fully interactive website live here:  
 **[flair-confetti.vercel.app](https://flair-confetti.vercel.app/)**
 
 
