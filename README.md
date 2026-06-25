@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="assets/icon.svg" height="48" align="center" style="vertical-align: middle;" />
-  FLAIR CONFETTI
-</h1>
+<h1 align="center">FLAIR CONFETTI</h1>
 
 ---
 
