@@ -5,7 +5,7 @@
 
 ---
 
-## 📖 About
+<h2 align="center">📖 About</h2>
 
 * **Tactile Cannon Controls:** Click, hold, and pull back the hand launcher to aim.
 * **Dynamic Web Audio SFX:** Real-time pitch-bending tension stretch and release pop sounds.
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Features
+<h2 align="center">🛠️ Features</h2>
 
 | Feature | Description | Implementation Details |
 | :--- | :--- | :--- |
@@ -23,26 +23,26 @@
 
 ---
 
-## 🖼️ Preview
+<h2 align="center">🖼️ Preview</h2>
 
 ![Flair Confetti Demo Preview](preview.gif)
 
 ---
 
-## 🎮 How to Control
+<h2 align="center">🎮 How to Control</h2>
 
 * **Pull & Launch:** Click, hold, and pull back the hand icon. Watch the line stretch and listen to the pitch rise, then let go to launch the blast.
 * **Mobile Taps:** Open the page on a mobile device and tap anywhere to trigger instant explosions without needing to drag.
 
 ---
 
-## ⚙️ Installation
+<h2 align="center">⚙️ Installation</h2>
 
-### Prerequisites
+<h3 align="center">Prerequisites</h3>
 * **Node.js** (v18.0.0 or higher recommended)
 * **npm** (v9.0.0 or higher)
 
-### Setup Instructions
+<h3 align="center">Setup Instructions</h3>
 1. Clone the repository:
    ```bash
    git clone https://github.com/Y7XIFIED/flair-confetti.git
@@ -59,7 +59,7 @@
 
 ---
 
-## 📂 Project Structure
+<h2 align="center">📂 Project Structure</h2>
 
 ```text
 ├── assets/
@@ -74,7 +74,7 @@
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
