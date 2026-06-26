@@ -42,7 +42,7 @@ Flair-Confetti/
 │       └── Nasalization Rg.otf
 ├── dist
 │   ├── assets
-│   │   ├── favicon-B9MG4LjH.png
+│   │   ├── 1.png
 │   │   ├── index-BY7C3igP.js
 │   │   ├── index-DRtbWcq1.css
 │   │   └── Nasalization Rg-DD0SFZwf.otf
