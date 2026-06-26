@@ -40,13 +40,6 @@ Flair-Confetti/
 ├── assets
 │   └── fonts
 │       └── Nasalization Rg.otf
-├── dist
-│   ├── assets
-│   │   ├── 1.png
-│   │   ├── index-BY7C3igP.js
-│   │   ├── index-DRtbWcq1.css
-│   │   └── Nasalization Rg-DD0SFZwf.otf
-│   └── index.html
 ├── favicon.png
 ├── index.html
 ├── main.css
